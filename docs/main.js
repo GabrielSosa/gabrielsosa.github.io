@@ -1,5 +1,5 @@
 "use strict";
-(self["webpackChunkandresjosehr_portfolio"] = self["webpackChunkandresjosehr_portfolio"] || []).push([["main"],{
+(self["webpackChunkgabrielsosa_portfolio"] = self["webpackChunkgabrielsosa_portfolio"] || []).push([["main"],{
 
 /***/ 3966:
 /*!***************************************!*\
@@ -91,7 +91,7 @@ class AppComponent {
     this.translateService = translateService;
     this.location = location;
     this.languageService = languageService;
-    this.title = 'andresjosehr-portfolio';
+    this.title = 'gabrielsosa-portfolio';
   }
   ngOnInit() {
     this.languageService.initLanguage();

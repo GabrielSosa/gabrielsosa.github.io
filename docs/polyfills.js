@@ -1,5 +1,5 @@
 "use strict";
-(self["webpackChunkandresjosehr_portfolio"] = self["webpackChunkandresjosehr_portfolio"] || []).push([["polyfills"],{
+(self["webpackChunkgabrielsosa_portfolio"] = self["webpackChunkgabrielsosa_portfolio"] || []).push([["polyfills"],{
 
 /***/ 5321:
 /*!**************************!*\
