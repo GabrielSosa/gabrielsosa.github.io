@@ -8,12 +8,12 @@
     "Header.cvName": "Cv_Gabriel_Sosa_ES.pdf",
 
     "Banner.Pretitle": "Hola! Mi nombre es",
-    "Banner.Description": "Tengo <span class='underline'>6 años de experiencia</span> desarrollando sistemas, interfaces, bots y soluciones tecnológicas para hacer de la web un lugar mejor. Me dedico a escribir y refactorizar código limpio, reutilizable y escalable en <span class='underline'>Angular</span> y en ocaciones en <span class='underline'>Laravel</span> aplicando buenas practicas y estandares de desarrollo.",
+    "Banner.Description": "Tengo <span class='underline'>6 años de experiencia</span> desarrollando sistemas, interfaces, bots y soluciones tecnológicas para hacer de la web un lugar mejor. Me dedico a escribir y refactorizar código limpio, reutilizable y escalable en <span class='underline'>Angular</span> y de parte del backend en <span class='underline'>Java SpringBoot</span> aplicando buenas practicas y estandares de desarrollo.",
     "Banner.ActionBtn": "Saludame",
 
     "AboutMe.Title": "Acerca de mi",
     "AboutMe.Paragraphs": [
-        "En mis <span class='underline'>5 años como desarrollador</span> busco capacitarme cada día. Al mismo tiempo he trabajado escribiendo <span class='underline'>pruebas unitarias</span>, realizando <span class='underline'>integración continua</span> y también cubriendo roles de backend developer con <span class='underline'>Laravel y Mysql</span>. También he liderado equipos teniendo empatía, ejerciendo motivación a compañeros y estableciendo planes y metas en conjunto.",
+        "En mis <span class='underline'>6 años como desarrollador</span> busco capacitarme cada día. Al mismo tiempo he trabajado escribiendo <span class='underline'>pruebas unitarias</span>, realizando <span class='underline'>integración continua</span> y me especializo en roles de backend developer con <span class='underline'>Java con SpringBoot y SQL Server</span>. También he liderado equipos teniendo empatía, ejerciendo motivación a compañeros y estableciendo planes y metas en conjunto.",
         "Mis capacidades también incluyen implementar mejoras en sistemas, optimizar sitios, estandarizar patrones y sugerir y ejecutar ideas que añadan valor al proyecto en el que este trabajando.",
         "Algunas de las tecnologías en las que me he capacitado y trabajado incluyen (pero no se limitan) a:"
     ],
@@ -22,174 +22,79 @@
     "Experience.Title": "Experiencia",
     "Experience.Jobs": [
       {
-            "Tab": "Proyex",
+            "Tab": "Stefanini",
             "Title": "Fullstack developer",
-            "Date": "Diciembre 2019 - Actualidad",
+            "Date": "Febrero 2023 - Actualidad",
             "Description": [
-              "Creación y mantenimiento de una plataforma de monitorio con gráficos en Wordpress.",
-              "Programación funcional en plantillas y plugins para añadir las características necesarias de monitoreo.",
-              "Implementación de integración continua y respaldos diarios.",
-              "Creación y mantenimiento de una segunda plataforma de Monitoreo Realizada en Angular, Angular Material, Laravel, Mysql, RxJS, Sass con gráficos (configurables), sistema de alarmas, y gestión de usuarios y configuración de parámetros generales.",
-              "Reuniones de planificación en informes."
+              "Desarrollo como consultor en el banco agrícola en El Salvador, donde se despliegan las apps en CI/CD mediante Azure devops, creación de Microservicios en java 17.",
+              "Análisis en Azure de Insigths donde se genera presentaciones de manera de identificar los errores en las APIs y mejorar el preformance.",
+              "Implementación de proyecto mediante metodología Agile como ser Scrum en Azure devops",
+              "Pruebas unitarias con junit y mockito para Java 17 en SonarQube y resolución de vulnerabilidades en prisma cloud.",
+              "Desarrollo de interfaces en Angular 17 con pruebas unitarias.",
+              "Desarrollo de LogicApps, Services Bus en los proyectos de Azure devops."
             ]
       },
       {
-        "Tab": "Freelancer",
-        "Title": "Independiente",
-        "Date": "Mayo 2016 - Actualidad",
+        "Tab": "Banco FICENSA",
+        "Title": "Analista programador Senior",
+        "Date": "Diciembre 2020 - Febrero 2023",
         "Description": [
-          "Implementacion de mejoras continuas, trabajando en frontend y backend.",
-          "Creacion de plataformas con Angular, Laravel, Wordpress programadas con paradigmas de programación funcional, reactiva y orientada a objetos.",
-          "Automatizacion de procesos con estructuras de datos.",
-          "Maquetacion de diseños con SASS, Bootstrap, Materialize, Bulma, etc."
+          "Desarrollos de nuevos módulos liderándolos desde su implementación hasta la conclusión en el sistema de Autobancos.",
+          "Creación de productos de software que ayudaban a la mejora de procesos internos.",
+          "Implementación de ETLs, Store procedures y análisis de logs en los aplicativos.",
+          "Comunicaciones con los diferentes proveedores del banco con el objetivo de implementar nuevos productos.",
+          "Tecnologías aplicadas en los desarrollos del banco son las siguientes tecnologías: Java 8, Angular, Docker, Jenkis, DB2, RPG ILE.",
+          "Implementación de nuevas herramientas tecnológicas. Implementando en el banco una CI/CD en los desarrollos."
         ]
       },
       {
-        "Tab": "Moebius",
-        "Title": "FullStack developer",
-        "Date": "Julio 2017 - Octubre 2018",
+        "Tab": "INFATLAN",
+        "Title": "Programador",
+        "Date": "Enero 2019 - Diciembre 2020",
         "Description": [
-          "Liderando un equipo de 4 personas en el desarrollo de una plataforma de gestión de Datos de turismo hecha en Angular, Laravel y MySQL. ",
-          "Implementacion de CI/CD en Azure. Refactorizando y optimizando tiempos de carga de la aplicación.",
-          "Codificación de peticiones a API con RxJS.",
-          "Crecion de modulos con formularios reactivos complejos",
-          "Redacción de informes semanales acerca de metas y planes."
+          "Mantenimiento a la Banca empresarial donde se ayudaba al monitoreo y resolución de problemas.",
+          "Migración del core Bancario de IBS a SAP, Donde se realizaron microservicios en Docker y Kubernetes con Openshift que era la comunicación entre SAP y los diferentes canales del banco.",
+          "Implementación de tecnologías como: Java SpringBoot, Genexus 16, RPGE ILE, SAP Hanna, Db2, RPGE ILE, Docker, Kubernetes.",
+          "Se implemento una arquitectura de microservicios, las aplicaciones en contenedores y administradas por kuberneters.",
+          "Redacción de informes semanales acerca de metas y planes.",
+          "Migración de toda la caja Jteller que se comunicaba con programas RPG a una nueva arquitectura en Java.",
+          "Implementación de nueva arquitecura desplegada en un servidor Node JS."
         ]
       },
       {
-        "Tab": "TechLatam",
-        "Title": "Frontend developer",
-        "Date": "Febrero 2016 - Mayo 2017",
+        "Tab": "HLG",
+        "Title": "System Engineer",
+        "Date": "Abril 2018 - Enero 2019",
         "Description": [
-          "Creación de plantillas de wordpress con ACF, programación funcional en Javascript / jQuery, estilos en SASS",
-          "integración de mejoras en diseño y tiempos de carga de plantillas.",
-          "Comunicación efectiva con equipo de diseño, trabajando con Avocode / Figma"
+          "Creación de sistema web, módulo de usuarios, para consulta de los actores locales y búsqueda en tablas dinámicas.",
+          "Creación de formularios con ODK Collect, para la recolección de información de las diferentes municipalidades en Honduras.",
+          "Administración de la base de datos SQL SERVER.",
+          "Creación de aplicación de asistencia Técnica en PHP con Laravel.",
+          "Reportes o vistas de la información solicitada de la base de datos de eventos, diseñados en Tableu.",
+          "Administración de servidores Windows Server Active Directory.",
+          "Capacitación al personal de las muncipalidades en herramientas de recolección de datos.",
+          "Creación de aplicaciones de MS Excel utilizando macros.",
+          "Creación de servidor de aplicaciones web."
         ]
-      },
-      {
-        "Tab": "CANTV",
-        "Title": "Analista de sistema",
-        "Date": "Noviembre 2015 - Diciembre 2016",
-        "Description": [
-          "Programacion de nuevas funcionalidades para una plataforma de gestión de empleados existente realizada en Angular y ExpressJS",
-          "Realizar refactorización de código antiguo. Asegurar la compatibilidad de cada dependencia en cada actualización, junto también con la actualización regular de Angular."
-        ]
-      },
-      {
-        "Tab": "IEP",
-        "Title": "Profesor de Inglés",
-        "Date": "Enero 2015 - Julio 2015",
-        "Description": ["Enseñando ingles a nivel básico a una matrícula de más de 200 alumnos."]
       }
     ],
 
     "FeatureProjects.Title": "Mis proyectos",
-    "FeatureProjects.Label": "Proyecto Destacado",
+    "FeatureProjects.Label": "Proyecto Gibson",
     "FeatureProjects.Projects": [{
-            "Title": "Agrourbana",
-            "Description": "Aplicación de monitoreo realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span> y <span class='underline'>gestión de usuarios</span>. Cuenta también con lógica de formularios reactvios para la configuración de parámetros.",
+            "Title": "Gibson",
+            "Description": "Aplicación para el avaluo de vehiculos realizada desde cero con módulo de auth, <span class='underline'>reportes dinámicos</span>, <span class='underline'>vehículos configurables</span> y <span class='underline'>gestión de usuarios</span>. Cuenta también con lógica de formularios reactivos para la configuración de parámetros.",
             "imgs": [
-                "assets/images/agrourbana/agrourbana1.png",
-                "assets/images/agrourbana/agrourbana2.png",
-                "assets/images/agrourbana/agrourbana3.png",
-                "assets/images/agrourbana/agrourbana4.png",
-                "assets/images/agrourbana/agrourbana5.png"
+                "assets/images/gibson/gibson1.png",
+                "assets/images/gibson/gibson2.png",
+                "assets/images/gibson/gibson3.png",
+                "assets/images/gibson/gibson4.png",
+                "assets/images/gibson/gibson5.png",
+                "assets/images/gibson/gibson6.png",
+                "assets/images/gibson/gibson7.png",
+                "assets/images/gibson/gibson8.png"
             ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Tu super plan",
-            "Description": "Cotizador de planes de salud que cuenta con un buscador con el que se hacen consultas avanzadas. Los planes son mostrados en base a la edad, ingreso mensual y ubicacion del usuario. Cuenta con <span class='underline'>chat en linea</span>, <span class='underline'>formulario de contacto</span>, <span class='underline'>sistema de notificaiones por whatsapp y correo</span>, <span class='underline'>auth</span>, y <span class='underline'>gestion de informacion internet a travez del rol de administrador</span>.",
-            "imgs": [
-                "assets/images/tusuperplan/tusuperplan1.png",
-                "assets/images/tusuperplan/tusuperplan2.png",
-                "assets/images/tusuperplan/tusuperplan3.png",
-                "assets/images/tusuperplan/tusuperplan4.png",
-                "assets/images/tusuperplan/tusuperplan5.png"
-            ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Proyexiot",
-            "Description": "Plataforma de monitoreo de datos pertenecientes a pozos de agua, remolcadores y diversas instalaciones realizada desde cero con módulo de auth, <span class='underline'>gráficos configurables</span>, <span class='underline'>alarmas configurables</span>, <span class='underline'>gestión de usuarios</span> y <span class='underline'>geolocalizacion con openlayers.</span> Cuenta también con lógica de formularios reactivos para la configuración de parámetros.",
-            "imgs": [
-                "assets/images/proyex/proyex1.png",
-                "assets/images/proyex/proyex2.png",
-                "assets/images/proyex/proyex3.png",
-                "assets/images/proyex/proyex4.png",
-                "assets/images/proyex/proyex5.png",
-                "assets/images/proyex/proyex6.png",
-                "assets/images/proyex/proyex7.png",
-                "assets/images/proyex/proyex8.png",
-                "assets/images/proyex/proyex9.png",
-                "assets/images/proyex/proyex10.png",
-                "assets/images/proyex/proyex11.png",
-                "assets/images/proyex/proyex12.png"
-            ],
-            "Technologies": ["Laravel", "Angular", "SASS", "Angular Material", "RxJS"]
-        },
-        {
-            "Title": "Hands game",
-            "Description": "Juego de piedra papel y tijeras extendido. Un proyecto personal desarrollado en angular en el que juegas al azar contra la máquina. Cuenta con la utilización de servicios, interfaces y componentes.",
-            "imgs": ["assets/images/hands-game.png"],
-            "ghLink": "https://github.com/gabrielsosa/hands-game",
-            "demoLink": "https://proyectos.gabrielsosa.com/hands-game",
-            "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
-        },
-        {
-            "Title": "Countries viewer",
-            "Description": "Interfaz que consume una API de países con el que se pueden visualizar lista de países, ver detalles de cada país, filtrar por nombre y región. Ademas cuenta con un dark mode para alternar entre el tema oscuro y el claro.",
-            "imgs": ["assets/images/countries-viewer.png"],
-            "ghLink": "https://github.com/gabrielsosa/countries-viewer",
-            "demoLink": "https://proyectos.gabrielsosa.com/countries-viewer",
-            "Technologies": ["Angular", "RxJS", "SASS", "API"]
-        }
-    ],
-
-
-
-    "OtherProjects.Title": "Mas proyectos",
-    "OtherProjects.Projects": [{
-            "Title": "Pokemon",
-            "Description": "Buscador de pokemons que utiliza la pokeapi. Se usó programación orientada a objetos para organizar la información de los pokemons junto con su respectiva imagen.",
-            "ghLink": "https://github.com/gabrielsosa/pokemon-angular",
-            "demoLink": "https://proyectos.gabrielsosa.com/pokemon-list",
-            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
-        },
-        {
-            "Title": "Coming soon page",
-            "Description": "Proyecto personal de una página dividida de dos columnas para ser usado como 'Coming soon page'. Programada para ser totalmente responsive design. Cuenta con un campo de formulario para suscribirse por correo electrónico.",
-            "ghLink": "https://github.com/gabrielsosa/coming-soon-page",
-            "demoLink": "https://proyectos.gabrielsosa.com/coming-soon-page",
-            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
-        },
-        {
-            "Title": "Four card feature section",
-            "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
-            "ghLink": "https://github.com/gabrielsosa/fourd-card-feature-section",
-            "demoLink": "https://proyectos.gabrielsosa.com/four-card-feature-section",
-            "Technologies": ["Angular", "SASS", "CSS GRID"]
-        },
-        {
-            "Title": "Social proof section",
-            "Description": "Proyecto personal de una página diseñada a partir de un diseño hecho en figma. Se utilizó angular para el desarrollo junto con SASS y CSS GRID.",
-            "ghLink": "https://github.com/gabrielsosa/social-proof-section",
-            "demoLink": "https://proyectos.gabrielsosa.com/social-proof-section",
-            "Technologies": ["Angular", "CSS GRID", "GIT"]
-        },
-        {
-            "Title": "FAQ accordion card",
-            "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
-            "ghLink": "https://github.com/gabrielsosa/faq-accordion",
-            "demoLink": "https://proyectos.gabrielsosa.com/faq-accordion",
-            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
-        },
-        {
-            "Title": "Profile card",
-            "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
-            "ghLink": "https://github.com/gabrielsosa/profile-card-component",
-            "demoLink": "https://proyectos.gabrielsosa.com/profile-card-component",
-            "Technologies": ["Angular", "SASS", "GIT"]
+            "Technologies": ["React", "Bootstrap", "SASS", "Typescript", "NodeJs"]
         }
     ],
 
